@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  AngryBirdClone
 //
-//  Created by Pixelplus Interactive on 18.07.2022.
 //
 
 import UIKit

@@ -2,7 +2,6 @@
 //  GameViewController.swift
 //  AngryBirdClone
 //
-//  Created by Pixelplus Interactive on 18.07.2022.
 //
 
 //GameScene içinden tasarım yapılabilir fakat genelde koddan yapılıyor.
